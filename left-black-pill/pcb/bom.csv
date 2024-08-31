@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC
+Hall_Sensor,"U1,U2,U3,U4,U5",SOT-23,C266230
+Conn_01x18_Socket,J2,PinSocket_1x18_P2.54mm_Vertical,C2905422
+Conn_01x11_Socket,J1,PinSocket_1x11_P2.54mm_Horizontal,C2897393

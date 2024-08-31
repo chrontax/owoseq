@@ -1,0 +1,9 @@
+left-black-pill/pcb/*
+!left-black-pill/pcb/bom.csv
+!left-black-pill/pcb/cpl.csv
+!left-black-pill/pcb/gerber.zip
+!left-black-pill/pcb/fp-lib-table
+!left-black-pill/pcb/sym-lib-table
+!left-black-pill/pcb/left.kicad_pro
+!left-black-pill/pcb/left.kicad_sch
+!left-black-pill/pcb/left.kicad_pcb

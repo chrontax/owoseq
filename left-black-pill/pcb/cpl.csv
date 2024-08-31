@@ -1,0 +1,8 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","Conn_01x11_Socket","PinSocket_1x11_P2.54mm_Horizontal",190.250000,-71.250000,-90.000000,bottom
+"J2","Conn_01x18_Socket","PinSocket_1x18_P2.54mm_Vertical",97.548612,-69.992637,-90.000000,bottom
+"U1","Hall_Sensor","SOT-23",112.392974,-80.987422,90.000000,bottom
+"U2","Hall_Sensor","SOT-23",131.528085,-80.992637,90.000000,bottom
+"U3","Hall_Sensor","SOT-23",150.528085,-80.985988,90.000000,bottom
+"U4","Hall_Sensor","SOT-23",169.500000,-81.000000,90.000000,bottom
+"U5","Hall_Sensor","SOT-23",183.298612,-119.000000,90.000000,bottom
